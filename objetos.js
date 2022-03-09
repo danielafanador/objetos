@@ -1,4 +1,5 @@
 var miEquipo = { 
+
 	nombre: 'Millonarios',
 	camiseta: 'Adidas',
 	títulos: 15,
@@ -9,4 +10,4 @@ var miEquipo = {
 		console.log (`Mi equipo es ${this.nombre} de ${this.ciudad}`)
 	}
 
- }
+}
